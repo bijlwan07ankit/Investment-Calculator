@@ -1,2 +1,0 @@
-# Investment-Calculator
-udemy project
